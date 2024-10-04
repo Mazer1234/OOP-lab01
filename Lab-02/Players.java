@@ -68,6 +68,7 @@ public class Players{
         playerList.add(filterPanel, BorderLayout.SOUTH);
 
         //Визуализация экранной формы
+        players.setBackground(new Color(250,200,200));
         playerList.setVisible(true);
     }
     public static void main(String[] args){
