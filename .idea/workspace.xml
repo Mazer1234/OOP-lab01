@@ -5,55 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54ffced4-e136-4f2b-9641-b333630f91d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP-lab01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pasechnyi-3311-lab01.mkv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pasechnyi-3311-lab01.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allclasses-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-ui.overrides.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/jquery-3.5.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-dir/jquery-ui.structure.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-02/Pasechnyi-3311-lab01.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-02/Pasechnyi-3311-lab01.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/eclipse/OOP-lab01/Lab-02",
+    "last_opened_file_path": "C:/eclipse/OOP-lab01/Lab-03",
     "onboarding.tips.debug.path": "C:/eclipse/OOP-lab01/src/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
